@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Karan+Kanwar">「 Google Me 」</a>
+<!--     <a href="https://www.google.com/search?q=Karan+Kanwar">「 Google Me 」</a> -->
     <br>
     「 I am a front-end web appplication developer from India 」
     <br>
@@ -44,7 +44,7 @@
  <a href="https://www.linkedin.com/in/karan-kanwar-72726322b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="binge-coder"/>
  </a>
- <!-- <a href="https://dev.to/binge-coder" target="_blank">
+  <!-- <a href="https://dev.to/binge-coder" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="binge-coder" />
  </a> -->
  <a href="https://twitter.com/kanwarxkaran" target="_blank">
@@ -83,6 +83,8 @@
 <!-- ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) -->
 <!-- ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
 <!-- ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) -->
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -91,9 +93,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
@@ -118,17 +123,20 @@
 <hr/>
 <br>
 
+
 <p align="center">
   <a href="https://github.com/binge-coder">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=binge-coder&theme=dracula" alt="Karan's GitHub streak"/>
   </a>
 </p>
 
+<!-- 
 <p align="center">
   <a href="https://github.com/binge-coder">
     <img src="https://github-readme-stats.vercel.app/api?username=binge-coder&show_icons=true&theme=dracula" alt="Karan's GitHub stats"/>
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="https://github.com/binge-coder">
