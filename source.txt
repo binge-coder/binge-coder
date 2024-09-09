@@ -1,3 +1,17 @@
 1. https://home.aveek.io/GitHub-Profile-Badges/ (best)
 2. https://badges.pages.dev/
 3. https://github.com/Ileriayo/markdown-badges
+
+
+--- 
+
+# Custom badges:
+
+```markdown
+
+<div style="background-color: gray; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto;">
+  <img src="./assets/Twine_vector_logo.svg" alt="Twine Logo" height="15" style="margin-right: 0.5em;">
+  <span style="font-size: 0.8em; font-weight: bold; color: white;">TWINE</span>
+</div>
+
+```

@@ -74,6 +74,21 @@
 </p>
 
 ## I use these tools mostly
+<div style="margin-bottom: 5px">
+  <div style="background-color: gray; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto;">
+    <img src="./assets/Twine_vector_logo.svg" alt="Twine Logo" height="15" style="margin-right: 0.5em;">
+    <span style="font-size: 0.8em; font-weight: bold; color: white;">TWINE</span>
+  </div>
+  <div style="background-color: black; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto;">
+    <img src="./assets/harlowe.svg" alt="Harlowe Logo" height="15" style="margin-right: 0.5em;">
+    <span style="font-size: 0.8em; font-weight: bold; color: white;">HARLOWE</span>
+  </div>
+  <div style="background-color: white; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto; border: 1px solid black">
+    <img src="./assets/SugarCube.png" alt="Sugarcube Logo" height="15" style="margin-right: 0.5em;">
+    <span style="font-size: 0.8em; font-weight: bold; color: black;">SUGARCUBE</span>
+  </div>
+</div>
+
 <!-- ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) -->
 <!-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
@@ -84,7 +99,6 @@
 <!-- ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
 <!-- ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) -->
 <!-- ![dark reader](https://img.shields.io/badge/Dark%20Reader-141E24.svg?style=for-the-badge&logo=Dark-Reader&logoColor=white) -->
-
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -119,7 +133,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B.svg?style=for-the-badge&logo=Tampermonkey&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) 
-![tauri](https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white)
+![appwrite](https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white)
 
 ## Currently learning these
 ![lodash](https://img.shields.io/badge/Lodash-3492FF.svg?style=for-the-badge&logo=Lodash&logoColor=white)
