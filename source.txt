@@ -5,13 +5,22 @@
 
 --- 
 
-# Custom badges:
+# Custom badges try 1 (doesn't work):
 
 ```markdown
 
-<div style="background-color: gray; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto;">
-  <img src="./assets/Twine_vector_logo.svg" alt="Twine Logo" height="15" style="margin-right: 0.5em;">
-  <span style="font-size: 0.8em; font-weight: bold; color: white;">TWINE</span>
+<div style="margin-bottom: 5px">
+  <div style="background-color: gray; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto;">
+    <img src="./assets/Twine_vector_logo.svg" alt="Twine Logo" height="15" style="margin-right: 0.5em;">
+    <span style="font-size: 0.8em; font-weight: bold; color: white;">TWINE</span>
+  </div>
+  <div style="background-color: black; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto;">
+    <img src="./assets/harlowe.svg" alt="Harlowe Logo" height="15" style="margin-right: 0.5em;">
+    <span style="font-size: 0.8em; font-weight: bold; color: white;">HARLOWE</span>
+  </div>
+  <div style="background-color: white; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto; border: 1px solid black">
+    <img src="./assets/SugarCube.png" alt="Sugarcube Logo" height="15" style="margin-right: 0.5em;">
+    <span style="font-size: 0.8em; font-weight: bold; color: black;">SUGARCUBE</span>
+  </div>
 </div>
-
 ```

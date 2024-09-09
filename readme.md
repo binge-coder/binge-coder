@@ -74,20 +74,6 @@
 </p>
 
 ## I use these tools mostly
-<div style="margin-bottom: 5px">
-  <div style="background-color: gray; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto;">
-    <img src="./assets/Twine_vector_logo.svg" alt="Twine Logo" height="15" style="margin-right: 0.5em;">
-    <span style="font-size: 0.8em; font-weight: bold; color: white;">TWINE</span>
-  </div>
-  <div style="background-color: black; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto;">
-    <img src="./assets/harlowe.svg" alt="Harlowe Logo" height="15" style="margin-right: 0.5em;">
-    <span style="font-size: 0.8em; font-weight: bold; color: white;">HARLOWE</span>
-  </div>
-  <div style="background-color: white; display: inline-flex; align-items: center; padding: 0.3em 0.5em;  width: auto; border: 1px solid black">
-    <img src="./assets/SugarCube.png" alt="Sugarcube Logo" height="15" style="margin-right: 0.5em;">
-    <span style="font-size: 0.8em; font-weight: bold; color: black;">SUGARCUBE</span>
-  </div>
-</div>
 
 <!-- ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) -->
 <!-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
@@ -134,6 +120,10 @@
 ![tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B.svg?style=for-the-badge&logo=Tampermonkey&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) 
 ![appwrite](https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white)
+![Twine](https://img.shields.io/badge/TWINE-grey?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iODk2IiBoZWlnaHQ9IjEwMjQiPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iYiI%2BPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTI3YWVlIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMTE3YWVmIiBzdG9wLW9wYWNpdHk9Ii4yNTEiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iYSI%2BPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTBmMDVlIiBzdG9wLW9wYWNpdHk9Ii4yNTEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxMGYwNWUiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCB4bGluazpocmVmPSIjYSIgaWQ9ImQiIHgxPSI1MiIgeTE9IjYwNC4zNjIiIHgyPSI5NzIiIHkyPSI2MDQuMzYyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIvPjxsaW5lYXJHcmFkaWVudCB4bGluazpocmVmPSIjYiIgaWQ9ImMiIHgxPSIyNTYiIHgyPSIyMzEuOTg3IiB5Mj0iNzI1LjU0OCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAyOC4zNjIpIi8%2BPC9kZWZzPjxwYXRoIGZpbGw9InVybCgjYykiIGQ9Ik02NCAyOC4zNjJoMzg0djEwMjRINjR6IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNjQgLTI4LjM2MikiLz48cGF0aCBkPSJNNjQgODYwLjM2MmMwLTcwNCA4OTYtNzA0IDg5Ni03MDR2Mzg0cy01MTIgMC01MTIgMzIwdjE5Mkg2NHoiIGZpbGw9InVybCgjZCkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02NCAtMjguMzYyKSIvPjwvc3ZnPg%3D%3D)
+![Harlowe](https://img.shields.io/badge/HARLOWE-black?style=for-the-badge&logo=https%3A%2F%2Fgithub.com%2Fbinge-coder%2Fbinge-coder%2Fblob%2Fmain%2Fassets%2Fharlowe.svg)
+![Static Badge](https://img.shields.io/badge/SUGARCUBE-white?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAEEklEQVR4nO3dv0ojURTH8V9EQQkJU6VObakWW6RIIYsgk9Yize6TiI8gYr3b2WdQdAu1sNhCtvUBsg8wjAbXUcw2nkXummSSuX%2FOSc63nMwNBz6QLvcAGqsqoQcoW6fT6QyHw30AqFQqB71erxd6pjKJBXkHsWF89EsyjDgQE2JtbQ2tVgsAcHNzg8fHR3pVJIwYkI8gdnZ20Ol0UKvVAAD39%2Ffo9Xo4Pz8XC8MepAiEmWQYtiCzQJhJhGEHYgPCTBIMGxAXEGYSYIKD%2BIAw4wwTDCQEhBlHGO8gHCDMOMF4A%2BEIYcYBxjmIBAizkDDOQOI47gAQBWE2CgbAQZIkTmCsg8wDhJlPGGsg8whh5gOmNMgiQJi5hJkZZBEhzFzATA2iEP9nE6YwiEJMzgbMRBCFmL4yMGNB4jj%2BBuALoBCzNALme5IkX0edWZrwnQ0AqNfrf46OjrJut6sYU1Sr1dDtdnF8fJxFUfTn7XFj3JlJIACA7e3t1X6%2Fj36%2Ff%2F3y8pKVnnRBGg6H2dPT03WlUsHe3t5qkTOFQN6qp2navru7U5gJEcTDwwPyPG8DqBc9Ow0IpTAjKgNBzQJCKcxbNiCoMiDUwsLYhKBsgFALA%2BMCgrIJQs0tjEsIygUINTcwPiAolyCUWBifEJQPEEoMTAgIyicIxRYmJAQVAoRiA8MBggoJQgWD4QRBcQChvMFwhKA4gVDOYDhDUBxBKGswEiAoziDUzDCSICgJIFRhGIkQlCQQaiSMZAhqOfQAJaqnadpO0zSLoui60Wggz%2FMNAO3Qg5VJMghVT9O0HUVR6DmsJPEna65TEGYpCLMUhFkKwiwFYZaCMEtBmKUgzFIQZikIsxSEWQrCLAVhloIwS0GYpSDMUhBmKQizFIRZCsIsBWGWgjBLQZilIMxSEGYpCLMUhFkKwqxCIBcXFxgMBq5nmduyLMPJyUmhdyf9HeE3AAwGAxweHmJzcxOtVgvVarXsjAtRlmU4OzvD1dUV8jynx7%2FHnZl4Tezu7u7npaWlAwCfAGBlZYUlTLPZDD3Cv0ZA%2FHx9fd0%2FPT39Me5s4YuUTZjl5WVsbW2xgeEAQhCXl5d4fn6mx4UgqKmvGucKExLEBgQ182X83GBCgNiEoEqvq%2BAC4xPEBQRlbaFLaBgfIC4hKOsrj0LBuATxAUE5WwrmG8YFiE8IyvnaPF8wNkFCQFDeFku6hrEBEhKC8r56NY7jzwCsw5QBGQUBYD9JEi8QVLDlxLZhZgHhBEEFX99tC2YaEI4QVHAQqixMERDOEBQbEGpWmHEgEiAodiDUtDAfgUiCoNiCUEVh3oNIhKDYg1CTYJrNpmgISgwI9RHM%2Bvo6qtUqbm9vxUJQ4kAoE%2BZdIiEosSDUOxhAMISmaZrA%2FgJLhjSn0wpo5gAAAABJRU5ErkJggg%3D%3D)
+
 
 ## Currently learning these
 ![lodash](https://img.shields.io/badge/Lodash-3492FF.svg?style=for-the-badge&logo=Lodash&logoColor=white)
