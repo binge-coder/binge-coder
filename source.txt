@@ -1,7 +1,14 @@
 1. https://home.aveek.io/GitHub-Profile-Badges/ (best)
 2. https://badges.pages.dev/
 3. https://github.com/Ileriayo/markdown-badges
+4. https://dev.to/envoy_/150-badges-for-github-pnk
 
+
+# Currently can't show these:
+- jotai
+- zustand
+- daz3d
+- react three fiber
 
 --- 
 
