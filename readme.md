@@ -42,15 +42,15 @@
  <!-- <a href="https://binge-coder.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="binge-coder" />
  </a> -->
- <a href="https://www.linkedin.com/in/karan-kanwar-72726322b/" target="_blank">
+ <!-- <a href="https://www.linkedin.com/in/karan-kanwar-72726322b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="binge-coder"/>
- </a>
+ </a> -->
   <!-- <a href="https://dev.to/binge-coder" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="binge-coder" />
  </a> -->
- <a href="https://twitter.com/kanwarxkaran" target="_blank">
+ <!-- <a href="https://twitter.com/kanwarxkaran" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
+ </a> -->
  <!-- <a href="https://instagram.com/binge-coder.dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="binge-coder" />
  </a>  -->
@@ -66,10 +66,10 @@
 <p>
  <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
- ❤️ &emsp; I like building new and useful things<br/><br/>
- ✌️ &emsp; Some of my projects are not on github yet. I will be adding them shortly. <br/><br/>
+ ❤️ &emsp; I like building things sometimes<br/><br/>
+ ✌️ &emsp; Some of my projects are not on github yet. I will be adding them shortly... or never <br/><br/>
  🖥️ &emsp; My machine learning work is in [kaggle](https://www.kaggle.com/karankanwar1205) <br/><br/>
- 📧 &emsp; Reach me anytime on [Linkedin](https://www.linkedin.com/in/karan-kanwar-72726322b/)
+  <!-- 📧 &emsp; Reach me anytime on [Linkedin](https://www.linkedin.com/in/karan-kanwar-72726322b/) -->
  <!-- 💬 &emsp; Ask me about anything [here](https://github.com/binge-coder/binge-coder/issues) -->
 
 </p>
