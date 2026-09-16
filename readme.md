@@ -31,7 +31,8 @@
   <samp>
 <!--     <a href="https://www.google.com/search?q=Karan+Kanwar">「 Google Me 」</a> -->
     <br>
-    「 I am a front-end web appplication developer from India 」
+    <!-- 「 I am a front-end web appplication developer from India 」 -->
+    I do stuff
     <br>
     <br>
   </samp>
